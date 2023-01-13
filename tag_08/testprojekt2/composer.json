@@ -1,6 +1,0 @@
-{
-    "require": {
-        "fakerphp/faker": "^1.21",
-        "kevinlebrun/colors.php": "^1.0"
-    }
-}
